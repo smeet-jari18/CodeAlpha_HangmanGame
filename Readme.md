@@ -247,7 +247,7 @@ That is a very nice Python trick. 👏
 **Smeet Jariwala**
 Python Programming Intern @ CodeAlpha
 📧 smeetjariwala17@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+🔗 [LinkedIn](https://linkedin.com/in/smeet-jariwala-98b0043a5`)
 
 ---
 
