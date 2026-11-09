@@ -14,7 +14,7 @@ Key Concepts Used: random, while loop, if-else, strings, lists.
 
 import random
 
-words = ["python", "computer", "apple", "program", "student", "hello"]
+words = ["python", "computer", "apple", "program", "student"]
 
 select_word = random.choice(words)
 
